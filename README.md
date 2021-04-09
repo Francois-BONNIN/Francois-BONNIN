@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm François BONNIN</h1>
+<h1 align="center">Hi 🎈, I'm François BONNIN</h1>
 <h3 align="center">Passionate about web development</h3>
 
 - 🌱 I’m currently learning **ReactJS**
