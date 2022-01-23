@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🎈, I'm François BONNIN</h1>
 <h3 align="center">Passionate about web development</h3>
 
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **francois.bonnin@ynov.com**
 
