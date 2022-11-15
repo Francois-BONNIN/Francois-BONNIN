@@ -48,12 +48,15 @@
   </a> 
 
   <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
   </a>
   
   <a href="https://strapi.io" target="_blank"> 
     <img src="https://finance-et-compagnies.com/storage/media/437/h-8DrtCD_400x400.jpg" alt="strapi" width="40" height="40"/> 
   </a>
   
+  <a href="https://notion.so" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="strapi" width="40" height="40"/> 
+  </a>
 
 </p>
