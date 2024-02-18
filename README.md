@@ -1,9 +1,9 @@
-<h1 align="center">Hi 🎈, I'm François BONNIN</h1>
-<h3 align="center">Passionate about web development</h3>
 
-- 🌱 I’m currently learning **Angular**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=F78F1D&random=false&width=500&height=70&lines=Fran%C3%A7ois+BONNIN;Fullstack+DEVELOPPER)](https://git.io/typing-svg)
 
-- 📫 How to reach me **francois.bonnin@ynov.com**
+<h3 align="left">Passionate about web development</h3>
+
+- 📫 Reach me : **francois.bonnin@ynov.com**
 
 <h3 align="left">Languages and Tools :</h3>
 <p align="left"> 
@@ -11,7 +11,7 @@
   
   <li><h4 align="left">Web :</h4></li>
   <a href="https://laravel.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="40" height="40"/> 
   </a>
   <a href="https://expressjs.com" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/> 
